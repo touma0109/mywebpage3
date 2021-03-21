@@ -1,0 +1,192 @@
+body{
+	width:auto;
+	height:3000px；
+}
+
+#header{
+	width:auto;
+	height:90px;
+}
+  
+.header-list li{
+	float: right;
+	padding: 33px 20px;
+	list-style: none;
+}
+  
+.header-list li a{
+	font-size:40px;
+	text-decoration: none;
+}
+
+.header-list li a:visited{
+	color :black;
+}
+  
+.header-list li a:hover{
+	color : #ff7043;
+}
+  
+.header-list li a:active{
+	color : black;
+}
+
+#main{
+	width:100%;
+	height:1000px;
+}
+
+.top-title{
+	width:100%;
+	height:190px;
+	text-align:center;
+}
+
+.top-title a{
+	padding-left:50px;
+	font-size:50px;
+	font-family:'arial black';
+}
+
+#spot1{
+	width:100%;
+	height:535px;
+}
+
+.photo1{
+	width:470px;
+	height:370px;
+	float:left;
+	margin-left:170px;
+}
+
+.photo1 img{
+	width:450px;
+	height:350px;
+}
+
+.photo2{
+	width:470px;
+	height:370px;
+	float:right;
+	margin-right:200px;
+}
+
+.photo2 img{
+	width:450px;
+	height:350px;
+}
+
+.setu1{
+	width:100%;
+	text-align:center;
+}
+
+.setu1 a{
+	font-size:25px;
+}
+
+.sub-title{
+	width:100%;
+	height:50;
+	text-align:center;
+}
+
+.sub-title a{
+	font-size:40px;
+	border-bottom:3px solid rgb(95, 187, 239);
+}
+
+.point1{
+	width:100%;
+	height:500px;
+	padding-top:40px;
+}
+
+.point1 img{
+	margin-left:80px;
+	width:500px;
+	height:400px;
+	float:left;
+}
+
+.setu2{
+	width:640px;
+	height:400px;
+	float:right;
+	margin-right:80px;
+	padding-top:20px;
+}
+.setu2 a{
+	font-size:22px;
+}
+
+.point2{
+	width:100%;
+	height:500px;
+	padding-top:40px;
+}
+
+.point2 img{
+	margin-left:80px;
+	width:500px;
+	height:400px;
+	float:left;
+}
+
+.setu3{
+	width:640px;
+	height:400px;
+	float:right;
+	margin-right:80px;
+	padding-top:20px;
+}
+.setu3 a{
+	font-size:22px;
+}
+
+.point3{
+	width:100%;
+	height:500px;
+	padding-top:40px;
+}
+
+.point3 img{
+	margin-left:80px;
+	width:500px;
+	height:400px;
+	float:left;
+}
+
+.setu4{
+	width:640px;
+	height:375px;
+	float:right;
+	margin-right:80px;
+	padding-top:20px;
+}
+.setu4 a{
+	font-size:22px;
+}
+
+.matome{
+	width:100%;
+	height:60px;
+	text-align:center;
+}
+
+.matome a{
+	font-size:40px;
+	border-bottom:3px solid rgb(95, 187, 239);
+}
+
+.setu5{
+	width:100%;
+	height:100px;
+	text-align:center;
+	padding-top:15px;
+}
+
+.setu5 a{
+	font-size:22px;
+}
